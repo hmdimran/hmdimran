@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmdimran" alt="hmdimran" /></a> </p>
 
-- 🔭 I’m currently working on [Bangladesh Government Project](bargunapoly.gov.bd)
+- 🔭 I’m currently working on <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 
 - 📫 How to reach me **developerhimran@mail.com**
 

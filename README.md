@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmdimran" alt="hmdimran" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://my2021.bargunapoly.gov.bd/" target="_blank" rel="noreferrer"> <img src="https://my2021.bargunapoly.gov.bd/themes/default/shop/assets//frontend/images/logo.png" alt="angular" width="30" height="30" style="padding-top:20px" /> </a>
+- 🔭 I’m currently working on <a href="https://my2021.bargunapoly.gov.bd/" target="_blank" rel="noreferrer"> <img src="https://www.bargunapoly.gov.bd/themes/default/shop/assets//frontend/images/logo.png" alt="angular" width="30" height="30" style="padding-top:20px" /> </a>
 
 - 📫 How to reach me **developerhimran@mail.com**
 
